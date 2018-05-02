@@ -9,7 +9,7 @@ import requests
 
 def getAppInfo(sApiKey, text):
 
-    sURL = "https://api.a3rt.recruit-tech.co.jp/text_suggest/v1/predict"
+    sURL = "https://api.a3rt.recruit-tech.co.jp/text_suggest/v2/predict"
     params = {'apikey' : sApiKey,'previous_description' : text}
     stRes = requests.get(sURL,params=params)
 
