@@ -34,4 +34,16 @@ https://github.com/request/request
 公式    
 https://github.com/axios/axios    
 
+## superagent
+
+
+https://qiita.com/hashrock/items/3113690bb3de5bba639b
+
+
+WHATWG、ワットダブルジー    
+https://whatwg.org/
+
+wikiより    
+>HTMLと関連技術の開発をするためのコミュニティである。W3Cが策定したXHTMLや、W3Cがウェブ開発者の要望を軽視していることなどを不満に思ったApple、Mozilla、Operaの開発者たちによって2004年に結成された。    
+
 
