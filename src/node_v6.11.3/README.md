@@ -10,6 +10,7 @@ npm3.10.10
 
 npm install request@2.81.0
 npm install axios@0.16.2
+npm install superagent@3.8.3
 
 #この下の二つはいらなかった。文字コード変換を試すのに使った。
 npm install jschardet
